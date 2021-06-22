@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.2'
+#gem 'jekyll', '~> 4.2'
+gem 'github-pages', '~> 215', group: :jekyll_plugins
 gem 'jekyll-redirect-from'
 
 group :jekyll_plugins do
