@@ -3,7 +3,7 @@ title: Hay Harp
 subtitle: Nathan Hay 
 email: nathan@hayharp.com
 description: Harp performance services from Nathan Hay
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 10715 Darby Creek Rd
