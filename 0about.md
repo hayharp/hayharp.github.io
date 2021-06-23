@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Hi, I'm Nathan Hay, a 20-year-old harpist studying music theory at The Ohio State University.</p>
+<p>Hi, I'm Nathan Hay, a 20-year-old Columbus-area harpist studying music theory at The Ohio State University.</p>
 <h2 id="content">Training</h2>
 <p><span class="image right" style="max-height:15%; max-width:15%;"><img src="{% link assets/images/casual_headshot.jpg %}" alt=""/></span>I prefaced my harp instruction with piano lessons, studying with Dr. Suzanne Newcomb of Otterbein University, and supplementing my piano experience with jazz studies at The Wellington School. After some piano training, I began to study the harp with Professor Jeanne Norton. I study the technique of Carlos Salzedo, focusing on the values of technical precision and quality of sound. My training also includes masterclasses with artists such as Florence Sitruk of Indiana University and Yolanda Kondanasis of the Oberlin Conservatory. I have also worked with artists and ensembles at the past three National Harp Conventions ('14, '16, '18).</p>
 <h2 id="content">Experience</h2>
