@@ -3,7 +3,7 @@ layout: post
 title: Portfolio
 permalink: /portfolio
 description: See recordings of past performances
-image: assets/images/brass_glare.jpg
+image: assets/images/brass_glare.webp
 nav-menu: true
 ---
 
