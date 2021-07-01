@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Read about my background and performance skills
 permalink: /about
 image: assets/images/headshot.webp
 nav-menu: true

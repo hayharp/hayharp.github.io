@@ -2,6 +2,7 @@
 title: Hay Harp
 subtitle: Nathan Hay 
 email: nathan@hayharp.com
+tagline: Harp performance services from Nathan Hay
 description: Harp performance services from Nathan Hay
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -46,4 +47,6 @@ exclude:
 plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
+- jekyll-seo-tag
+
 theme: jekyll-theme-cayman
