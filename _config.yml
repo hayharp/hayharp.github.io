@@ -1,7 +1,7 @@
 # site settings
 title: Hay Harp
 subtitle: Nathan Hay 
-email: nathan@hayharp.com
+email: contact@hayharp.com
 tagline: Harp performance services from Nathan Hay
 description: Harp performance services from Nathan Hay
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -23,7 +23,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
+  GitHub: hayharp
   GitLab:
   Google-Plus: 
   Instagram:
